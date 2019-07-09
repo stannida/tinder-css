@@ -77,6 +77,7 @@ class Profile(Model):
         self.name = data['name']
         self.birth_date = dateutil.parser.parse(data['birth_date'])
         self.create_date = dateutil.parser.parse(self.create_date)
+        print(data['pos'])
 
         try:
             self.pos = data['pos']
