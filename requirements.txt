@@ -1,8 +1,0 @@
-pandas==0.20.3
-numpy==1.13.3
-sortedcollections==0.5.3
-qgrid==1.1.1
-plotly==4.0.0.
-ipywidgets>=7.2
-nltk==3.2.4
-num2words==0.5.10
