@@ -6,8 +6,9 @@ dependencies:
   - pandas
   - numpy
   - qgrid
-  - collections
   - plotly
   - ipywidgets
   - nltk
-  - num2words
+  - pip:
+    - collections
+    - num2words
