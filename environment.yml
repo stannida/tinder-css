@@ -12,3 +12,4 @@ dependencies:
   - pip:
     - num2words
     - qgrid
+    - chart_studio
