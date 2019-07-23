@@ -9,6 +9,7 @@ dependencies:
   - plotly
   - ipywidgets
   - nltk
+  - pip
   - pip:
     - collections
     - num2words
