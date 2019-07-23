@@ -1,6 +1,6 @@
 # tinder-css
 
-
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/stannida/tinder-css/master)
 # Crawler instructions
 To run crawler you need to download, configure and run following github project: https://github.com/charliewolf/pynder
 
