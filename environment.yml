@@ -8,6 +8,7 @@ dependencies:
   - plotly
   - ipywidgets
   - nltk
+  - seaborn
   - pip
   - pip:
     - num2words
