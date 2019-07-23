@@ -1,12 +1,13 @@
-name: example-environment
+name: tinder-environment
 channels:
   - conda-forge
 dependencies:
   - python
+  - pandas
   - numpy
-  - pip
-  - pip:
-    - nbgitpuller
-    - sphinx-gallery
-    - pandas
-    - matplotlib
+  - qgrid
+  - collections
+  - plotly
+  - ipywidgets
+  - nltk
+  - num2words
